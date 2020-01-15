@@ -1,0 +1,12 @@
+{
+  "name": "Weekly Average Example",
+  "version": "0.0.1",
+  "description": "An example of an hourly report for Density data",
+  "author": "Density <engineering@density.io>",
+  "license": "MIT",
+  "dependencies": {
+    "camelcase": "^5.3.1",
+    "moment": "^2.24.0",
+    "qs": "^6.9.1"
+  }
+}
