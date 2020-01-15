@@ -24,6 +24,7 @@ exampleParams = {
 };
 
 // Get meta data about the space (used to get space's time zone)
+// fetchObject just avoids you having to write the request details every time you make one
 const space = fetchObject(client, `/spaces/${exampleParams.spaceId}`);
 
 // Tiemstamp comversion stuff

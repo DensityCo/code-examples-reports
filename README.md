@@ -14,7 +14,7 @@ Returns hourly occupancy and entrance data for a specified time range. It also a
 Included are examples of helper functions we've written to make querying for Density data easier:
 
 - **fetch-all-pages.js -** Handles fetching every page in a paginated response
-- **fetch-all-objects.js -** Handles fetching every page in a paginated response
+- **fetch-all-objects.js -** Reduces the amount of time you need to write request code
 - **object-snake-camel.js -** Converts snake case to camel
 - **bankers-round.js -** Rounds 0.5 up
 
