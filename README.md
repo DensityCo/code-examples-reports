@@ -1,7 +1,7 @@
 # Report Calculation Exmaples
 The following code base is meant as a example for how Density would generate certain datasets. This repository isn't maintained as a functional reports repository. There's no guarantee that just plugging the following into an application will work.
 
-## Available Examples:
+## Available Examples
 
 ### Hourly Report Data
 Returns hourly occupancy and entrance data for a specified time range. It also accepts an aggregation parameter: `sum` or `average` which which returns the hourly averages for each day of the week over the specified time period.
