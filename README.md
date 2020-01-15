@@ -6,6 +6,8 @@ The following codebase is meant to demonstrate how Density would generate certai
 ## Available Examples
 
 ### Hourly Report Data
+[hourly-data.js](hourly-data.md)
+
 Returns hourly occupancy and entrance data for a specified time range. It also accepts an aggregation parameter: `sum` or `average` which which returns the hourly averages for each day of the week over the specified time period.
 
 ## Helpers
