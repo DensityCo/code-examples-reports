@@ -1,5 +1,7 @@
 # Report Calculation Exmaples
-The following codebase is meant as a example for how Density would generate certain datasets. This repository isn't maintained as a functional reports repository. There's no guarantee that just plugging the following into an application will work.
+The following codebase is meant to demonstrate how Density would generate certain datasets using the baseline metrics Density provides via our API.
+
+**Note:** This repository isn't maintained as a functional reports repository. There's no guarantee that just plugging the following into an application will work.
 
 ## Available Examples
 
